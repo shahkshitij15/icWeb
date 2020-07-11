@@ -1,4 +1,4 @@
-#icWeb
+# icWeb
 An automated virtual assistant for people with visual impairements
 
 ## Problem we solve
