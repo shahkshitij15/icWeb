@@ -1,3 +1,9 @@
+#icWeb
+An automated virtual assistant for people with visual impairements
+
+## Problem we solve
+People with visual impairements are restricted in tasks that are common-place for other people, web browsing is one of them. There are some solutions on the market, but all of these rely on screen readers and heavily use a keyboard interace for user commands, for these people lerning the keyboard shortcuts is a real challenge, we aim to create an entirely voice based interface to access the most popular websites on the internet. Users will be able to issue voice commands to control the browser, the contents of which will be read out to them. We have added convenient features like - Wikipedia articles can be queried using a state of the art machine learning model for question answering, and they can also be summarised.
+
 DEMO : https://www.youtube.com/watch?v=ak5i_hcOex0
 
 
