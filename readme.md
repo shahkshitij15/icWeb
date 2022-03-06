@@ -6,6 +6,8 @@ People with visual impairements are restricted in tasks that are common-place fo
 
 DEMO : https://www.youtube.com/watch?v=ak5i_hcOex0
 
+Documentation:- https://devfolio.co/submissions/icweb
+
 
 
 dir google
